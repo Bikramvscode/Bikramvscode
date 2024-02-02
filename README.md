@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-  hello git hub
+-  i'm trying to learn this git hub thing
 <!---
 Bikramvscode/Bikramvscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
